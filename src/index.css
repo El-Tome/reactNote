@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.card {
+  border: #000000 1px solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #888888;
+  width: fit-content;
+}
+
+h3 {
+  color: #ff0000;
+}
